@@ -1,5 +1,5 @@
 - Hi there 👋 
-- I’m [Sanjay Satish Shekar] (https://github.com/sanjay96)
+- I’m **Sanjay Satish Shekar**
 - 📫 How to reach me at sanjaysatishshekar@gmail.com
 
 <!---
