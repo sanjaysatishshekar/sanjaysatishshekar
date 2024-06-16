@@ -48,7 +48,7 @@ const sanjay = {
 ## Work Experience 👨‍💼
 ⚡️ Graduate Teaching Assistant: Cloud Computing and Big Data - [**Department of Computer Science, University of Texas at Arlington**](https://www.uta.edu/)
 
-⚡️ Specialist Programmer (Full Stack Developer) - [**Infosys Limited**](https://www.infosys.com/)
+⚡️ Software Engineer II (Full Stack Developer) - [**Infosys Limited**](https://www.infosys.com/)
 
 ## 📫 Get in touch
 
